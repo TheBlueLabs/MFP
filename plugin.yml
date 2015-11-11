@@ -1,0 +1,7 @@
+name: MyFirstPlugin
+main: me.TheBlueLabs.MFP
+version: 1.0
+commands:
+   hello:
+      description: sends a quick hello message.
+      usage: /hello
